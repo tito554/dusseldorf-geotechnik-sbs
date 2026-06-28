@@ -1,0 +1,51 @@
+# Geotechnik — Dusseldorf
+
+> Geotechnical engineering services in Dusseldorf, Deutschland.
+
+## Services
+- [Anker](https://dusseldorf.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://dusseldorf.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://dusseldorf.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://dusseldorf.geotechnik.sbs/aushub-monitoring/)
+- [Bodenplatten](https://dusseldorf.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://dusseldorf.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://dusseldorf.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://dusseldorf.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://dusseldorf.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://dusseldorf.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://dusseldorf.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://dusseldorf.geotechnik.sbs/fundamente/)
+- [Grundungen](https://dusseldorf.geotechnik.sbs/grundungen/)
+- [Hange](https://dusseldorf.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://dusseldorf.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://dusseldorf.geotechnik.sbs/injektionen/)
+- [Korngrossenanalyse](https://dusseldorf.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://dusseldorf.geotechnik.sbs/labor/)
+- [Labor In Situ](https://dusseldorf.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://dusseldorf.geotechnik.sbs/masw/)
+- [Pfahle](https://dusseldorf.geotechnik.sbs/pfahle/)
+- [Proctor Versuche](https://dusseldorf.geotechnik.sbs/proctor-versuche/)
+- [Ruttelverdichtung](https://dusseldorf.geotechnik.sbs/ruttelverdichtung/)
+- [Sandkegel Dichte](https://dusseldorf.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://dusseldorf.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://dusseldorf.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://dusseldorf.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://dusseldorf.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://dusseldorf.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://dusseldorf.geotechnik.sbs/spt-bohrung/)
+- [Starrer Belag](https://dusseldorf.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://dusseldorf.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://dusseldorf.geotechnik.sbs/stutzmauern/)
+- [Tiefe Aushube](https://dusseldorf.geotechnik.sbs/tiefe-aushube/)
+- [Triaxialversuch](https://dusseldorf.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://dusseldorf.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://dusseldorf.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://dusseldorf.geotechnik.sbs/weichbodentunnel/)
+- [Widerstand](https://dusseldorf.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://dusseldorf.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Dusseldorf, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
